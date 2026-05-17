@@ -1,0 +1,27 @@
+class Solution {
+public:
+    bool canReach(vector<int>& arr, int start) {
+         int n = arr.size();
+         vector<bool> vis(n,false);
+         queue<int>pq;
+         pq.push(start);
+         
+
+         while(pq.size() > 0 ){
+              int currIdx = pq.front();
+              pq.pop();        
+
+              if( currIdx < 0 || currIdx >= n || vis[currIdx] )continue;
+
+              if( arr[ currIdx ] == 0 ) return true;
+              vis[currIdx] = true; 
+
+              pq.push(currIdx + arr[currIdx]);
+              pq.push(currIdx - arr[currIdx]);  
+
+          
+         }
+         return false;
+         
+    }
+};
