@@ -1,0 +1,48 @@
+class Solution {
+public:
+    int minJumps(vector<int>& arr) {
+        int n = arr.size();
+        unordered_map<int,vector<int>>mp;
+        vector<int>vis(n,false);
+        for(int i = 0 ; i < n ; i++ ){
+            mp[arr[i]].push_back(i);
+        }
+
+        queue<pair<int,int>>q;
+        q.push({0,0});
+
+        vis[0] = true;
+        while(q.size() > 0){
+
+            int el  = q.front().first;
+            int dis = q.front().second;
+
+
+            if(el == n - 1){
+                return dis;
+                 }
+            q.pop();
+            if(el - 1 >= 0 && !vis[el-1]){
+                vis[el - 1] = true;
+                q.push({el-1, dis +1});
+            }
+            if(el + 1 < n && !vis[el + 1]){
+                vis[el + 1] = true;
+                q.push({el + 1, dis +1});
+            }
+
+
+            for(auto idx : mp[arr[el]]){
+                if(!vis[idx]){
+                    vis[idx] = true;
+                    q.push({idx,dis + 1});
+                }
+            }
+            mp[arr[el]].clear();
+        }
+
+        return -1;
+
+
+    }
+};
