@@ -1,0 +1,40 @@
+class Solution {
+public:
+    int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
+        int n = arr1.size() , m = arr2.size() ;
+        int ans = INT_MIN;
+        unordered_set<int>s1;
+        unordered_set<int>s2;
+        int i = 0 , j = 0;
+        while( i < n || j < m ){
+            if(i < n){
+                    int curr = arr1[i];
+                    while( curr > 0){
+                            if(s2.count(curr)){
+                                int ln = to_string(curr).size();
+                                ans = max( ans , ln);
+                            }
+
+                        s1.insert(curr);
+                        curr = curr / 10;
+                    }
+            }
+            if(j < m){
+                int curr1  = arr2[j];
+
+                while(curr1 > 0){
+                    if(s1.count(curr1)){
+                        int ln = to_string(curr1).size();
+                        ans = max(ans, ln);
+                    }
+                    s2.insert(curr1);
+                    curr1 = curr1 / 10;
+                }
+
+            }           
+            i++;j++;
+        }
+
+        return ans == INT_MIN ? 0 :ans ;
+    }
+};
