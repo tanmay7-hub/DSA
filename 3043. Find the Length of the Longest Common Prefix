@@ -1,5 +1,4 @@
-class Solution {
-public:
+  // simple two map approach
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
         int n = arr1.size() , m = arr2.size() ;
         int ans = INT_MIN;
@@ -36,5 +35,4 @@ public:
         }
 
         return ans == INT_MIN ? 0 :ans ;
-    }
-};
+    
