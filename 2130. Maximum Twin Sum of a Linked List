@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int pairSum(ListNode* head) {
+        ListNode*slow=head;
+        ListNode*fast=head;
+        int ans=INT_MIN;
+        stack<int>s;
+        while(fast!=NULL){
+                 s.push(slow->val);
+                 slow=slow->next;
+                 fast=fast->next->next;
+        }
+        while(slow!=NULL){
+            ans=max(ans,s.top()+slow->val);
+            s.pop();
+            slow=slow->next;
+        }
+        return ans;
+    }
+};
