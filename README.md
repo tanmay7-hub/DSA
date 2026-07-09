@@ -25,10 +25,12 @@
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Matrix
 |  |
 | ------- |
