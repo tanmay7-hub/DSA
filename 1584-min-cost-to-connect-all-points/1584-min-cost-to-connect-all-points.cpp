@@ -1,50 +1,27 @@
 class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
-        int ans = 0;
-        
-        int v = points.size();
-
-
-        unordered_map<int,vector<pair<int,int>>>mp;
-
-
-        for(int i = 0 ; i < points.size() ; i++ ){
-            for(int j = i + 1 ; j < points.size() ; j++){
-                 int  u = i ;
-                 int  v = j ;
-
-                 int wt = abs(points[i][0] - points[j][0]) + abs(points[i][1] - points[j][1]);
-
-                 mp[u].push_back({v,wt});
-                 mp[v].push_back({u,wt});
-            }
-        }
-        priority_queue<pair<int,int> , vector<pair<int,int>> , greater<pair<int,int>>>pq;
-        vector<bool>vis(v , false);
-         
-         pq.push({0 , 0});
-
-        int sum = 0;          
-        while( !pq.empty() ){
-
-            auto [ wt , node ] = pq.top();
+        int ans=0;
+        int V=points.size();
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>pq;
+        vector<bool>vis(V,false);
+        int src=0;
+        pq.push(make_pair(0,src));
+        while(pq.size()>0){
+            int u=pq.top().second;
+            int cost=pq.top().first;
             pq.pop();
-
-            if(vis[node] )continue;
-
-            vis[node] = true;
-            sum += wt;
-            for(auto [v , wt] : mp[node]){
-                
-                if(!vis[v]){
-
-                    pq.push({wt , v});
-
+            if(!vis[u]){
+                vis[u]=true;
+                ans+=cost;
+                for(int v=0;v<V;v++){
+                    if(u!=v){
+                        int wt=abs(points[v][0]-points[u][0])+abs(points[v][1]-points[u][1]);
+                        pq.push(make_pair(wt,v));
+                    }
                 }
-
             }
         }
-        return sum;
+        return ans;
     }
 };
