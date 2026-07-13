@@ -12,6 +12,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanmay7-hub/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -40,6 +41,7 @@
 | [0260-single-number-iii](https://github.com/tanmay7-hub/DSA/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -53,12 +55,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
