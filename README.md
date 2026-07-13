@@ -134,4 +134,8 @@
 |  |
 | ------- |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmay7-hub/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/tanmay7-hub/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
