@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0260-single-number-iii](https://github.com/tanmay7-hub/DSA/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -55,6 +56,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0790-domino-and-tromino-tiling](https://github.com/tanmay7-hub/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -109,6 +111,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
