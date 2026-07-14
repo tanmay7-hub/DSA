@@ -57,6 +57,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/tanmay7-hub/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/tanmay7-hub/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -67,6 +68,7 @@
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0790-domino-and-tromino-tiling](https://github.com/tanmay7-hub/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Matrix
@@ -84,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanmay7-hub/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tanmay7-hub/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/tanmay7-hub/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
