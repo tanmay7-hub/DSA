@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanmay7-hub/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -14,6 +15,7 @@
 | ------- |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
+| [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanmay7-hub/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmay7-hub/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -28,6 +30,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1584-min-cost-to-connect-all-points](https://github.com/tanmay7-hub/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tanmay7-hub/DSA/tree/master/1291-sequential-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
