@@ -74,6 +74,7 @@
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
+| [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay7-hub/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
+| [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
