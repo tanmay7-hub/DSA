@@ -60,12 +60,16 @@ public:
             }
         }
         int ans = 0;
-        vector<bool>visited(n , false);
-        for(int i = 0 ; i < n ; i++ ){
-            if(!visited[i]){
-                dfs(i,visited,adj);
-                ans++;
-            }
+        // vector<bool>visited(n , false);
+        // for(int i = 0 ; i < n ; i++ ){
+        //     if(!visited[i]){
+        //         dfs(i,visited,adj);
+        //         ans++;
+        //     }
+        // }
+        
+        for(int i = 0 ; i < n ; i++){
+            if(par[i] == i )ans++;
         }
         return ans;
     }
