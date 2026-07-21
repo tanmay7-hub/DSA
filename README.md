@@ -138,6 +138,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/tanmay7-hub/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tanmay7-hub/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tanmay7-hub/DSA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/tanmay7-hub/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
