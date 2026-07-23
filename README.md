@@ -60,6 +60,7 @@
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/tanmay7-hub/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/tanmay7-hub/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1615-maximal-network-rank](https://github.com/tanmay7-hub/DSA/tree/master/1615-maximal-network-rank) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/tanmay7-hub/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
