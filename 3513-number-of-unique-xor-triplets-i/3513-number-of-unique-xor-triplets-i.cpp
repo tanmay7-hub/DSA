@@ -6,8 +6,8 @@ public:
         if (n <= 2) return n;
 
         int mask = 0;
-        for (int num : nums) {
-            mask |= num;
+        for (int i = 1 ; i <= n ; i++ ) {
+            mask |= i;
         }
 
         return mask + 1;
