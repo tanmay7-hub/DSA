@@ -80,6 +80,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2360-longest-cycle-in-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanmay7-hub/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmay7-hub/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -240,6 +241,7 @@
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/tanmay7-hub/DSA/tree/master/1514-path-with-maximum-probability) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -303,6 +305,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
 | [1514-path-with-maximum-probability](https://github.com/tanmay7-hub/DSA/tree/master/1514-path-with-maximum-probability) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Simulation
 |  |
 | ------- |
@@ -327,4 +330,8 @@
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
