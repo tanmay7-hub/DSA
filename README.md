@@ -28,6 +28,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/tanmay7-hub/DSA/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
@@ -185,6 +186,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/tanmay7-hub/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/tanmay7-hub/DSA/tree/master/0127-word-ladder) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/tanmay7-hub/DSA/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
