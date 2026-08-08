@@ -102,6 +102,7 @@
 | [1615-maximal-network-rank](https://github.com/tanmay7-hub/DSA/tree/master/1615-maximal-network-rank) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/tanmay7-hub/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tanmay7-hub/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/tanmay7-hub/DSA/tree/master/2050-parallel-courses-iii) |
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
@@ -185,6 +186,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/tanmay7-hub/DSA/tree/master/1406-stone-game-iii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tanmay7-hub/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/tanmay7-hub/DSA/tree/master/2050-parallel-courses-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -385,6 +387,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1462-course-schedule-iv](https://github.com/tanmay7-hub/DSA/tree/master/1462-course-schedule-iv) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tanmay7-hub/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/tanmay7-hub/DSA/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/tanmay7-hub/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tanmay7-hub/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -410,6 +413,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
 | [1514-path-with-maximum-probability](https://github.com/tanmay7-hub/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tanmay7-hub/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -467,4 +471,8 @@
 |  |
 | ------- |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/tanmay7-hub/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/tanmay7-hub/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
