@@ -125,6 +125,7 @@
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmay7-hub/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/tanmay7-hub/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3310-remove-methods-from-project](https://github.com/tanmay7-hub/DSA/tree/master/3310-remove-methods-from-project) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -170,6 +171,7 @@
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/tanmay7-hub/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tanmay7-hub/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -202,6 +204,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3123-find-edges-in-shortest-paths](https://github.com/tanmay7-hub/DSA/tree/master/3123-find-edges-in-shortest-paths) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -420,6 +424,7 @@
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/tanmay7-hub/DSA/tree/master/3123-find-edges-in-shortest-paths) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Simulation
 |  |
