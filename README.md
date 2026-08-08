@@ -45,6 +45,7 @@
 | [0827-making-a-large-island](https://github.com/tanmay7-hub/DSA/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1462-course-schedule-iv](https://github.com/tanmay7-hub/DSA/tree/master/1462-course-schedule-iv) |
@@ -91,6 +92,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/tanmay7-hub/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1462-course-schedule-iv](https://github.com/tanmay7-hub/DSA/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanmay7-hub/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -149,6 +151,7 @@
 | [0877-stone-game](https://github.com/tanmay7-hub/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay7-hub/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/tanmay7-hub/DSA/tree/master/1406-stone-game-iii) |
