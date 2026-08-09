@@ -150,6 +150,7 @@
 | [0827-making-a-large-island](https://github.com/tanmay7-hub/DSA/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [0877-stone-game](https://github.com/tanmay7-hub/DSA/tree/master/0877-stone-game) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/tanmay7-hub/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
@@ -447,6 +448,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/tanmay7-hub/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 ## Geometry
 |  |
