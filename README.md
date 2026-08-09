@@ -154,6 +154,7 @@
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1329-sort-the-matrix-diagonally](https://github.com/tanmay7-hub/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay7-hub/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/tanmay7-hub/DSA/tree/master/1406-stone-game-iii) |
 | [1514-path-with-maximum-probability](https://github.com/tanmay7-hub/DSA/tree/master/1514-path-with-maximum-probability) |
@@ -206,6 +207,7 @@
 | [0827-making-a-large-island](https://github.com/tanmay7-hub/DSA/tree/master/0827-making-a-large-island) |
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1329-sort-the-matrix-diagonally](https://github.com/tanmay7-hub/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -217,6 +219,7 @@
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay7-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
+| [1329-sort-the-matrix-diagonally](https://github.com/tanmay7-hub/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay7-hub/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/tanmay7-hub/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/tanmay7-hub/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
