@@ -134,6 +134,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0260-single-number-iii](https://github.com/tanmay7-hub/DSA/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -212,6 +213,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay7-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
@@ -243,6 +245,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/tanmay7-hub/DSA/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/tanmay7-hub/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -275,6 +278,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/tanmay7-hub/DSA/tree/master/0127-word-ladder) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
