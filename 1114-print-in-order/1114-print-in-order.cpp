@@ -18,7 +18,7 @@ public:
 
     void second(function<void()> printSecond) {
 
-        unique_lock< mutex > lock(mtx) ;
+        unique_lock<mutex> lock(mtx) ;
         while(turn != 1){
             cv.wait(lock);
         }      
@@ -29,7 +29,7 @@ public:
 
     void third(function<void()> printThird) {
         
-        unique_lock< mutex> lock(mtx);
+        unique_lock<mutex> lock(mtx);
 
         while(turn != 2){
             cv.wait(lock);
