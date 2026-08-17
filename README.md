@@ -17,6 +17,7 @@
 | [1462-course-schedule-iv](https://github.com/tanmay7-hub/DSA/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanmay7-hub/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/tanmay7-hub/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tanmay7-hub/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -52,6 +53,7 @@
 | [1462-course-schedule-iv](https://github.com/tanmay7-hub/DSA/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanmay7-hub/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/tanmay7-hub/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tanmay7-hub/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -279,6 +281,7 @@
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/tanmay7-hub/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/tanmay7-hub/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanmay7-hub/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -408,6 +411,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tanmay7-hub/DSA/tree/master/1291-sequential-digits) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tanmay7-hub/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
