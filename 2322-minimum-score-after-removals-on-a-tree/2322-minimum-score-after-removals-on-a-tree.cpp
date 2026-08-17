@@ -1,6 +1,9 @@
 class Solution {
 public:
     unordered_map<int , int > mp;
+    vector<int> tin;
+    vector<int> tout;
+    int timer = 0;
     int Precalc(unordered_map<int , vector<int>> &adj ,vector<int> &nums , int src , int par){
        
         int x = 0 ;
@@ -11,22 +14,24 @@ public:
         mp[src] = nums[src] ^ x;
         return mp[src];
     }
-    void ancestor(vector<vector<bool>> &anc , unordered_map<int , vector<int>> &adj , int src , int par){ 
-
-         for(auto v : adj[src]){
-            if(par == v) continue;
-            anc[v][src] = true;
-
-            for(int i = 0 ; i < anc.size() ; i++ ){
-                anc[v][i] = (anc[v][i] || anc[src][i]); 
-            }
-            ancestor(anc , adj , v , src);
-         }
+    void ancestor( unordered_map<int , vector<int>> &adj , int src , int par){ 
+        tin[src] = timer++;
+        
+        for(auto v : adj[src]){
+            if(v == par ) continue;
+            ancestor(adj , v , src );
+        }
+           
+        tout[src] = timer++;   
+    } 
+    bool isAncestor(int u , int v){
+        return (tin[u] <= tin[v] && tout[v] <= tout[u]);
     }
     int minimumScore(vector<int>& nums, vector<vector<int>>& edges) {
         int n = edges.size();
+        tin.resize(n + 1 );
+        tout.resize(n + 1 );
         unordered_map<int , vector<int>> adj;
-        vector<vector<bool>> vec( n + 1 , vector<bool>(n + 1 , false));
         for(auto edge : edges){
             int u = edge[0];
             int v = edge[1];
@@ -35,21 +40,21 @@ public:
         }
 
         int total_xor = Precalc(adj ,nums, 0 , -1);
-        ancestor(vec , adj , 0 , -1);
+        ancestor( adj , 0 , -1);
+
         int ans = INT_MAX;
-        
         for(int i = 1 ; i <= n ; i++ ){
             for(int j = i + 1 ; j <= n ; j++){
                  int x1 = mp[i];
                  int x2 = mp[j];
                   
                  int a , b , c;
-                 if(vec[j][i]){ // i ancestor
+                 if(isAncestor(i, j)){ // i ancestor
                     a = x2;
                     b = x1 ^ x2;
                     c = total_xor ^ x1;
                  }
-                 else if(vec[i][j]){ // j ancestor
+                 else if(isAncestor(j , i )){ // j ancestor
                     a = x1 ;
                     b = x2 ^ a;
                     c = total_xor ^ x2;
