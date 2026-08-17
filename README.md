@@ -21,6 +21,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tanmay7-hub/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -176,6 +177,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanmay7-hub/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -364,6 +366,7 @@
 | [0645-set-mismatch](https://github.com/tanmay7-hub/DSA/tree/master/0645-set-mismatch) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/tanmay7-hub/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/tanmay7-hub/DSA/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -398,6 +401,7 @@
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/tanmay7-hub/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmay7-hub/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Enumeration
