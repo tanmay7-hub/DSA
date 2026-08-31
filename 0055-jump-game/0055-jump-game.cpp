@@ -7,12 +7,7 @@ public:
        int i = 0;
        for( i ; i < nums.size() ; i++ ){
          if( i + nums[i] > curr && curr >= i )curr = i + nums[i];
-        //  if(curr < i) return false;
        }
-
-
        return curr >= n - 1;
-
-
     }
 };
