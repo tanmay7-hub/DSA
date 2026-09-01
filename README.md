@@ -11,6 +11,7 @@
 | [0802-find-eventual-safe-states](https://github.com/tanmay7-hub/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/tanmay7-hub/DSA/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
+| [1192-critical-connections-in-a-network](https://github.com/tanmay7-hub/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -95,6 +96,7 @@
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/tanmay7-hub/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1192-critical-connections-in-a-network](https://github.com/tanmay7-hub/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
@@ -601,4 +603,12 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanmay7-hub/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/tanmay7-hub/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/tanmay7-hub/DSA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
