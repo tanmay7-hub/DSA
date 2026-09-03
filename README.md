@@ -204,6 +204,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/tanmay7-hub/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tanmay7-hub/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Dynamic Programming
 |  |
@@ -284,6 +285,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmay7-hub/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanmay7-hub/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tanmay7-hub/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tanmay7-hub/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
