@@ -649,4 +649,8 @@
 |  |
 | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/tanmay7-hub/DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanmay7-hub/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
