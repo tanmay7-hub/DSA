@@ -226,6 +226,7 @@
 | [0790-domino-and-tromino-tiling](https://github.com/tanmay7-hub/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/tanmay7-hub/DSA/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/tanmay7-hub/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/tanmay7-hub/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1402-reducing-dishes](https://github.com/tanmay7-hub/DSA/tree/master/1402-reducing-dishes) |
@@ -312,6 +313,7 @@
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/tanmay7-hub/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/tanmay7-hub/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/tanmay7-hub/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
