@@ -652,5 +652,6 @@
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/tanmay7-hub/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanmay7-hub/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
