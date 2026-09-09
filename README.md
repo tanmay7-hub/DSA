@@ -192,6 +192,7 @@
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/tanmay7-hub/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2140-solving-questions-with-brainpower](https://github.com/tanmay7-hub/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanmay7-hub/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/tanmay7-hub/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -240,6 +241,7 @@
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tanmay7-hub/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/tanmay7-hub/DSA/tree/master/2050-parallel-courses-iii) |
+| [2140-solving-questions-with-brainpower](https://github.com/tanmay7-hub/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/tanmay7-hub/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
