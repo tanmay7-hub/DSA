@@ -163,6 +163,7 @@
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay7-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tanmay7-hub/DSA/tree/master/0645-set-mismatch) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/tanmay7-hub/DSA/tree/master/0724-find-pivot-index) |
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
@@ -229,6 +230,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/tanmay7-hub/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/tanmay7-hub/DSA/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/tanmay7-hub/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -411,6 +413,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/tanmay7-hub/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0976-largest-perimeter-triangle](https://github.com/tanmay7-hub/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tanmay7-hub/DSA/tree/master/1386-cinema-seat-allocation) |
