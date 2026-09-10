@@ -25,6 +25,7 @@
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tanmay7-hub/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -62,6 +63,7 @@
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tanmay7-hub/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -124,6 +126,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmay7-hub/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -198,6 +201,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -243,6 +247,7 @@
 | [2050-parallel-courses-iii](https://github.com/tanmay7-hub/DSA/tree/master/2050-parallel-courses-iii) |
 | [2140-solving-questions-with-brainpower](https://github.com/tanmay7-hub/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/tanmay7-hub/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2466-count-ways-to-build-good-strings](https://github.com/tanmay7-hub/DSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -259,6 +264,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/tanmay7-hub/DSA/tree/master/1329-sort-the-matrix-diagonally) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -512,6 +518,7 @@
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/tanmay7-hub/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tanmay7-hub/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Combinatorics
 |  |
@@ -564,6 +571,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Strongly Connected Component
 |  |
 | ------- |
