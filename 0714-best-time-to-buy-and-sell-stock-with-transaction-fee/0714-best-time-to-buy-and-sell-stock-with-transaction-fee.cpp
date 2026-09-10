@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
+    int dp[50001][2];
     int solve(vector<int>& prices, int fee, int idx, int buy) {
         if (idx >= prices.size())
             return 0;
@@ -19,7 +19,8 @@ public:
                        solve(prices, fee, idx + 1, buy));
     }
     int maxProfit(vector<int>& prices, int fee) {
-         dp.assign(prices.size(), vector<int>(2, -1));
+        //  dp.assign(prices.size(), vector<int>(2, -1));
+        memset(dp , -1 , sizeof(dp));
         return solve(prices, fee, 0, 1);
     }
 };
