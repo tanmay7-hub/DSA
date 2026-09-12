@@ -215,6 +215,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tanmay7-hub/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -387,6 +388,7 @@
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/tanmay7-hub/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay7-hub/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -487,6 +489,7 @@
 | [1291-sequential-digits](https://github.com/tanmay7-hub/DSA/tree/master/1291-sequential-digits) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
+| [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tanmay7-hub/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
@@ -594,6 +597,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
