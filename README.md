@@ -190,6 +190,7 @@
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tanmay7-hub/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/tanmay7-hub/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/tanmay7-hub/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/tanmay7-hub/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmay7-hub/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/tanmay7-hub/DSA/tree/master/2029-stone-game-ix) |
@@ -396,6 +397,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/tanmay7-hub/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tanmay7-hub/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -688,4 +690,12 @@
 | [1280-students-and-examinations](https://github.com/tanmay7-hub/DSA/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanmay7-hub/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tanmay7-hub/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/tanmay7-hub/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/tanmay7-hub/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
