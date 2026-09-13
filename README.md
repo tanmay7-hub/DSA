@@ -175,6 +175,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/tanmay7-hub/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tanmay7-hub/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/tanmay7-hub/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
@@ -242,6 +243,7 @@
 | [0926-flip-string-to-monotone-increasing](https://github.com/tanmay7-hub/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/tanmay7-hub/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/tanmay7-hub/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanmay7-hub/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-reducing-dishes](https://github.com/tanmay7-hub/DSA/tree/master/1402-reducing-dishes) |
@@ -383,6 +385,7 @@
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/tanmay7-hub/DSA/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/tanmay7-hub/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay7-hub/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tanmay7-hub/DSA/tree/master/1386-cinema-seat-allocation) |
