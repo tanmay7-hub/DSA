@@ -154,6 +154,7 @@
 | [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay7-hub/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0260-single-number-iii](https://github.com/tanmay7-hub/DSA/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay7-hub/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
@@ -340,6 +342,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/tanmay7-hub/DSA/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/tanmay7-hub/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -387,6 +390,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/tanmay7-hub/DSA/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0645-set-mismatch](https://github.com/tanmay7-hub/DSA/tree/master/0645-set-mismatch) |
@@ -472,6 +476,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/tanmay7-hub/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Heap (Priority Queue)
@@ -601,6 +606,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1575-count-all-possible-routes](https://github.com/tanmay7-hub/DSA/tree/master/1575-count-all-possible-routes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -740,4 +746,8 @@
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/tanmay7-hub/DSA/tree/master/0956-tallest-billboard) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
