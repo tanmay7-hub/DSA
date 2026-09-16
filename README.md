@@ -161,6 +161,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/tanmay7-hub/DSA/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
@@ -243,6 +244,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay7-hub/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0403-frog-jump](https://github.com/tanmay7-hub/DSA/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/tanmay7-hub/DSA/tree/master/0688-knight-probability-in-chessboard) |
