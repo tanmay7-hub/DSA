@@ -218,6 +218,7 @@
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay7-hub/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/tanmay7-hub/DSA/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -279,6 +280,7 @@
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/tanmay7-hub/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2466-count-ways-to-build-good-strings](https://github.com/tanmay7-hub/DSA/tree/master/2466-count-ways-to-build-good-strings) |
+| [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
