@@ -258,6 +258,7 @@
 | [0877-stone-game](https://github.com/tanmay7-hub/DSA/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/tanmay7-hub/DSA/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/tanmay7-hub/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0935-knight-dialer](https://github.com/tanmay7-hub/DSA/tree/master/0935-knight-dialer) |
 | [0940-distinct-subsequences-ii](https://github.com/tanmay7-hub/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/tanmay7-hub/DSA/tree/master/0956-tallest-billboard) |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
