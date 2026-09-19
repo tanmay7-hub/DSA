@@ -1,36 +1,57 @@
 class Solution {
 public:
+    vector<vector<int>> adj;
     vector<vector<int>> dp;
-    int dfs(int node, int cuts, vector<int> &coins,vector<vector<int>> &adjL,int parent,int k)
-    {
-        if(dp[node][cuts]!=-1) return dp[node][cuts];
-        int val = coins[node] >> cuts;
-        int normal = val-k;
-        for(int v : adjL[node])
-        {
-            if(v!=parent) normal+=dfs(v,cuts,coins,adjL,node,k);
+
+    int solve(int i, int par, int div,
+              vector<int>& coins, int k) {
+
+        if (dp[i][div] != -1)
+            return dp[i][div];
+
+        int curr_val = coins[i] >> div;
+
+        int op1 = curr_val - k;
+
+        for (int v : adj[i]) {
+            if (v == par)
+                continue;
+
+            op1 += solve(v, i, div, coins, k);
         }
-        int special = val/2;
-        if(cuts+1==15) return dp[node][cuts]=normal; // After 15 cuts, the coin value becomes 0 according to the constraints,
-        // so there is no benefit in considering more cuts.
-        for(int v : adjL[node])
-        {
-            if(v!=parent)
-            {
-                special+= dfs(v,cuts+1,coins,adjL,node,k);
-            }
+
+        if (div + 1 == 15)
+            return dp[i][div] = op1;
+
+        int op2 = curr_val >> 1;
+
+        for (int v : adj[i]) {
+            if (v == par)
+                continue;
+
+            op2 += solve(v, i, div + 1, coins, k);
         }
-        return dp[node][cuts] = max(normal,special);
+
+        return dp[i][div] = max(op1, op2);
     }
-    int maximumPoints(vector<vector<int>>& edges, vector<int>& coins, int k) {
-        int n = edges.size()+1;
-        dp.assign(n,vector<int>(15,-1)); // 15 cuts are enough according to the constraints
-        vector<vector<int>> adjL(n);
-        for(auto &e : edges)
-        {
-            adjL[e[0]].push_back(e[1]);
-            adjL[e[1]].push_back(e[0]);
+
+    int maximumPoints(vector<vector<int>>& edges,
+                      vector<int>& coins,
+                      int k) {
+
+        int n = edges.size() + 1;
+
+        adj.assign(n, {});
+        dp.assign(n, vector<int>(15, -1));
+
+        for (auto& edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-        return dfs(0,0,coins,adjL,-1,k); // max profit for tree rooted at 0 with 0 cuts
+
+        return solve(0, -1, 0, coins, k);
     }
 };
