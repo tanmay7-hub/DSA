@@ -32,6 +32,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanmay7-hub/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/tanmay7-hub/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/tanmay7-hub/DSA/tree/master/3123-find-edges-in-shortest-paths) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmay7-hub/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/tanmay7-hub/DSA/tree/master/3310-remove-methods-from-project) |
@@ -219,6 +220,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay7-hub/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/tanmay7-hub/DSA/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -282,6 +284,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2466-count-ways-to-build-good-strings](https://github.com/tanmay7-hub/DSA/tree/master/2466-count-ways-to-build-good-strings) |
 | [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -486,6 +489,7 @@
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/tanmay7-hub/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/tanmay7-hub/DSA/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -525,6 +529,7 @@
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/tanmay7-hub/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmay7-hub/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Enumeration
 |  |
@@ -629,6 +634,7 @@
 | [1575-count-all-possible-routes](https://github.com/tanmay7-hub/DSA/tree/master/1575-count-all-possible-routes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -771,4 +777,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
+## DP on Trees
+|  |
+| ------- |
+| [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 <!---LeetCode Topics End-->
