@@ -192,6 +192,7 @@
 | [1386-cinema-seat-allocation](https://github.com/tanmay7-hub/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/tanmay7-hub/DSA/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/tanmay7-hub/DSA/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1514-path-with-maximum-probability](https://github.com/tanmay7-hub/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/tanmay7-hub/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/tanmay7-hub/DSA/tree/master/1575-count-all-possible-routes) |
@@ -273,6 +274,7 @@
 | [1402-reducing-dishes](https://github.com/tanmay7-hub/DSA/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/tanmay7-hub/DSA/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/tanmay7-hub/DSA/tree/master/1416-restore-the-array) |
+| [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1510-stone-game-iv](https://github.com/tanmay7-hub/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tanmay7-hub/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/tanmay7-hub/DSA/tree/master/1575-count-all-possible-routes) |
@@ -509,6 +511,7 @@
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
+| [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1514-path-with-maximum-probability](https://github.com/tanmay7-hub/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmay7-hub/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -721,6 +724,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay7-hub/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
@@ -787,4 +791,12 @@
 |  |
 | ------- |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+## Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
