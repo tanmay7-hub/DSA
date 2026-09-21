@@ -761,6 +761,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanmay7-hub/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tanmay7-hub/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/tanmay7-hub/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/tanmay7-hub/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Binary Indexed Tree
 |  |
 | ------- |
