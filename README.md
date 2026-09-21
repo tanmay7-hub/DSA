@@ -751,6 +751,7 @@
 | [0197-rising-temperature](https://github.com/tanmay7-hub/DSA/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/tanmay7-hub/DSA/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/tanmay7-hub/DSA/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/tanmay7-hub/DSA/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/tanmay7-hub/DSA/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/tanmay7-hub/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/tanmay7-hub/DSA/tree/master/1075-project-employees-i) |
