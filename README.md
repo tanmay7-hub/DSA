@@ -752,6 +752,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/tanmay7-hub/DSA/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/tanmay7-hub/DSA/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/tanmay7-hub/DSA/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/tanmay7-hub/DSA/tree/master/0596-classes-with-at-least-5-students) |
