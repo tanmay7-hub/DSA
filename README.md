@@ -222,6 +222,7 @@
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -293,6 +294,7 @@
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/tanmay7-hub/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2466-count-ways-to-build-good-strings](https://github.com/tanmay7-hub/DSA/tree/master/2466-count-ways-to-build-good-strings) |
+| [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -395,6 +397,7 @@
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/tanmay7-hub/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tanmay7-hub/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/tanmay7-hub/DSA/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay7-hub/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay7-hub/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -439,6 +442,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/tanmay7-hub/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/tanmay7-hub/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay7-hub/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -513,6 +517,7 @@
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/tanmay7-hub/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
