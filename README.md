@@ -781,6 +781,7 @@
 | [1193-monthly-transactions-i](https://github.com/tanmay7-hub/DSA/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/tanmay7-hub/DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/tanmay7-hub/DSA/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/tanmay7-hub/DSA/tree/master/1321-restaurant-growth) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tanmay7-hub/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tanmay7-hub/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/tanmay7-hub/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
