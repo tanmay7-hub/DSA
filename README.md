@@ -398,6 +398,7 @@
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1416-restore-the-array](https://github.com/tanmay7-hub/DSA/tree/master/1416-restore-the-array) |
 | [1531-string-compression-ii](https://github.com/tanmay7-hub/DSA/tree/master/1531-string-compression-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tanmay7-hub/DSA/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanmay7-hub/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -619,6 +620,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tanmay7-hub/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -834,4 +836,8 @@
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/tanmay7-hub/DSA/tree/master/0808-soup-servings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
