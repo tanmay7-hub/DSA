@@ -82,6 +82,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanmay7-hub/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/tanmay7-hub/DSA/tree/master/0827-making-a-large-island) |
@@ -158,6 +159,7 @@
 | [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tanmay7-hub/DSA/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay7-hub/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/tanmay7-hub/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0260-single-number-iii](https://github.com/tanmay7-hub/DSA/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
@@ -436,6 +438,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/tanmay7-hub/DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/tanmay7-hub/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/tanmay7-hub/DSA/tree/master/0205-isomorphic-strings) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
