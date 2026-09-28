@@ -262,6 +262,7 @@
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/tanmay7-hub/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/tanmay7-hub/DSA/tree/master/0629-k-inverse-pairs-array) |
+| [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
 | [0688-knight-probability-in-chessboard](https://github.com/tanmay7-hub/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/tanmay7-hub/DSA/tree/master/0790-domino-and-tromino-tiling) |
@@ -388,6 +389,7 @@
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/tanmay7-hub/DSA/tree/master/0514-freedom-trail) |
+| [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/tanmay7-hub/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -479,6 +481,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/tanmay7-hub/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
