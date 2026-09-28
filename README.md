@@ -385,6 +385,7 @@
 | [0127-word-ladder](https://github.com/tanmay7-hub/DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/tanmay7-hub/DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/tanmay7-hub/DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/tanmay7-hub/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -441,6 +442,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/tanmay7-hub/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/tanmay7-hub/DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/tanmay7-hub/DSA/tree/master/0290-word-pattern) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0645-set-mismatch](https://github.com/tanmay7-hub/DSA/tree/master/0645-set-mismatch) |
