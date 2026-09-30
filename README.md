@@ -249,6 +249,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/tanmay7-hub/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmay7-hub/DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -472,6 +473,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmay7-hub/DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -764,6 +766,7 @@
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay7-hub/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmay7-hub/DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Linked List
 |  |
 | ------- |
