@@ -248,6 +248,7 @@
 | [3903-smallest-stable-index-i](https://github.com/tanmay7-hub/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tanmay7-hub/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -470,6 +471,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -596,6 +598,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Number Theory
 |  |
 | ------- |
