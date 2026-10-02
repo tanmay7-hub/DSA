@@ -270,6 +270,7 @@
 | [0576-out-of-boundary-paths](https://github.com/tanmay7-hub/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/tanmay7-hub/DSA/tree/master/0629-k-inverse-pairs-array) |
 | [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/tanmay7-hub/DSA/tree/master/0650-2-keys-keyboard) |
 | [0688-knight-probability-in-chessboard](https://github.com/tanmay7-hub/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/tanmay7-hub/DSA/tree/master/0790-domino-and-tromino-tiling) |
@@ -359,6 +360,7 @@
 | [0343-integer-break](https://github.com/tanmay7-hub/DSA/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay7-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/tanmay7-hub/DSA/tree/master/0650-2-keys-keyboard) |
 | [0808-soup-servings](https://github.com/tanmay7-hub/DSA/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/tanmay7-hub/DSA/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/tanmay7-hub/DSA/tree/master/0920-number-of-music-playlists) |
