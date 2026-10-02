@@ -250,6 +250,7 @@
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmay7-hub/DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Matrix
 |  |
 | ------- |
@@ -350,6 +352,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmay7-hub/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/tanmay7-hub/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Math
 |  |
 | ------- |
@@ -487,6 +490,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tanmay7-hub/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
