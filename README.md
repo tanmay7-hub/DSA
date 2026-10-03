@@ -255,6 +255,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tanmay7-hub/DSA/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/tanmay7-hub/DSA/tree/master/0091-decode-ways) |
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tanmay7-hub/DSA/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/tanmay7-hub/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tanmay7-hub/DSA/tree/master/0097-interleaving-string) |
@@ -643,6 +645,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/tanmay7-hub/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -867,6 +870,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanmay7-hub/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
