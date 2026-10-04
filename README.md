@@ -198,6 +198,7 @@
 | [1406-stone-game-iii](https://github.com/tanmay7-hub/DSA/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1514-path-with-maximum-probability](https://github.com/tanmay7-hub/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1539-kth-missing-positive-number](https://github.com/tanmay7-hub/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/tanmay7-hub/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/tanmay7-hub/DSA/tree/master/1575-count-all-possible-routes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/tanmay7-hub/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -491,6 +492,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
+| [1539-kth-missing-positive-number](https://github.com/tanmay7-hub/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanmay7-hub/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/tanmay7-hub/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
