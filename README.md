@@ -248,6 +248,7 @@
 | [3903-smallest-stable-index-i](https://github.com/tanmay7-hub/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tanmay7-hub/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/tanmay7-hub/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmay7-hub/DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -483,6 +484,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/tanmay7-hub/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmay7-hub/DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
@@ -614,6 +616,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/tanmay7-hub/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Number Theory
 |  |
