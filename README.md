@@ -272,6 +272,7 @@
 | [0629-k-inverse-pairs-array](https://github.com/tanmay7-hub/DSA/tree/master/0629-k-inverse-pairs-array) |
 | [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/tanmay7-hub/DSA/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/tanmay7-hub/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/tanmay7-hub/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/tanmay7-hub/DSA/tree/master/0790-domino-and-tromino-tiling) |
@@ -407,6 +408,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/tanmay7-hub/DSA/tree/master/0514-freedom-trail) |
 | [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/tanmay7-hub/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/tanmay7-hub/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -513,6 +515,7 @@
 | [0055-jump-game](https://github.com/tanmay7-hub/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay7-hub/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/tanmay7-hub/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/tanmay7-hub/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0976-largest-perimeter-triangle](https://github.com/tanmay7-hub/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -647,6 +650,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/tanmay7-hub/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/tanmay7-hub/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -871,6 +875,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/tanmay7-hub/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tanmay7-hub/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
