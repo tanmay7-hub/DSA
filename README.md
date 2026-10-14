@@ -317,6 +317,7 @@
 | [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/tanmay7-hub/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -381,6 +382,7 @@
 | [2029-stone-game-ix](https://github.com/tanmay7-hub/DSA/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay7-hub/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/tanmay7-hub/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay7-hub/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -556,6 +558,7 @@
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/tanmay7-hub/DSA/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/tanmay7-hub/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
@@ -654,6 +657,7 @@
 |  |
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/tanmay7-hub/DSA/tree/master/0920-number-of-music-playlists) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/tanmay7-hub/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -709,6 +713,7 @@
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/tanmay7-hub/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Strongly Connected Component
 |  |
 | ------- |
