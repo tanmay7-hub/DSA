@@ -233,6 +233,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay7-hub/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/tanmay7-hub/DSA/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/tanmay7-hub/DSA/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/tanmay7-hub/DSA/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -318,6 +319,7 @@
 | [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/tanmay7-hub/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -357,6 +359,7 @@
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanmay7-hub/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmay7-hub/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmay7-hub/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/tanmay7-hub/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -485,6 +488,7 @@
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/tanmay7-hub/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay7-hub/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -500,6 +504,7 @@
 | [1539-kth-missing-positive-number](https://github.com/tanmay7-hub/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanmay7-hub/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/tanmay7-hub/DSA/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tanmay7-hub/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -516,6 +521,7 @@
 | ------- |
 | [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/tanmay7-hub/DSA/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -624,6 +630,7 @@
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/tanmay7-hub/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/tanmay7-hub/DSA/tree/master/2029-stone-game-ix) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
