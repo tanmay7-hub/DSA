@@ -273,6 +273,7 @@
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/tanmay7-hub/DSA/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
+| [0552-student-attendance-record-ii](https://github.com/tanmay7-hub/DSA/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/tanmay7-hub/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/tanmay7-hub/DSA/tree/master/0629-k-inverse-pairs-array) |
 | [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
