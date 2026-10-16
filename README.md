@@ -183,6 +183,7 @@
 | [0956-tallest-billboard](https://github.com/tanmay7-hub/DSA/tree/master/0956-tallest-billboard) |
 | [0976-largest-perimeter-triangle](https://github.com/tanmay7-hub/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tanmay7-hub/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1043-partition-array-for-maximum-sum](https://github.com/tanmay7-hub/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/tanmay7-hub/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -289,6 +290,7 @@
 | [0935-knight-dialer](https://github.com/tanmay7-hub/DSA/tree/master/0935-knight-dialer) |
 | [0940-distinct-subsequences-ii](https://github.com/tanmay7-hub/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/tanmay7-hub/DSA/tree/master/0956-tallest-billboard) |
+| [1043-partition-array-for-maximum-sum](https://github.com/tanmay7-hub/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/tanmay7-hub/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
