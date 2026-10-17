@@ -311,6 +311,7 @@
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanmay7-hub/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/tanmay7-hub/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tanmay7-hub/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/tanmay7-hub/DSA/tree/master/2050-parallel-courses-iii) |
 | [2140-solving-questions-with-brainpower](https://github.com/tanmay7-hub/DSA/tree/master/2140-solving-questions-with-brainpower) |
@@ -912,4 +913,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanmay7-hub/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/tanmay7-hub/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
