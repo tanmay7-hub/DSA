@@ -280,6 +280,7 @@
 | [0629-k-inverse-pairs-array](https://github.com/tanmay7-hub/DSA/tree/master/0629-k-inverse-pairs-array) |
 | [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/tanmay7-hub/DSA/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/tanmay7-hub/DSA/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay7-hub/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/tanmay7-hub/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -424,6 +425,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/tanmay7-hub/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/tanmay7-hub/DSA/tree/master/0514-freedom-trail) |
 | [0647-palindromic-substrings](https://github.com/tanmay7-hub/DSA/tree/master/0647-palindromic-substrings) |
+| [0664-strange-printer](https://github.com/tanmay7-hub/DSA/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/tanmay7-hub/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0752-open-the-lock](https://github.com/tanmay7-hub/DSA/tree/master/0752-open-the-lock) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
