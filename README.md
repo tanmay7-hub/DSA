@@ -189,6 +189,7 @@
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/tanmay7-hub/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
@@ -299,6 +300,7 @@
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/tanmay7-hub/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/tanmay7-hub/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/tanmay7-hub/DSA/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanmay7-hub/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -436,6 +438,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/tanmay7-hub/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/tanmay7-hub/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay7-hub/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanmay7-hub/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1416-restore-the-array](https://github.com/tanmay7-hub/DSA/tree/master/1416-restore-the-array) |
@@ -488,6 +491,7 @@
 | [0815-bus-routes](https://github.com/tanmay7-hub/DSA/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/tanmay7-hub/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay7-hub/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tanmay7-hub/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -570,6 +574,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/tanmay7-hub/DSA/tree/master/0645-set-mismatch) |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tanmay7-hub/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/tanmay7-hub/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -636,11 +641,13 @@
 | [0022-generate-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanmay7-hub/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay7-hub/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/tanmay7-hub/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/tanmay7-hub/DSA/tree/master/2029-stone-game-ix) |
@@ -879,6 +886,7 @@
 |  |
 | ------- |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
 ## Meet in the Middle
 |  |
