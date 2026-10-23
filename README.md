@@ -54,6 +54,7 @@
 | [0815-bus-routes](https://github.com/tanmay7-hub/DSA/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/tanmay7-hub/DSA/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
@@ -106,6 +107,7 @@
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/tanmay7-hub/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1192-critical-connections-in-a-network](https://github.com/tanmay7-hub/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
@@ -290,6 +292,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tanmay7-hub/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/tanmay7-hub/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [0808-soup-servings](https://github.com/tanmay7-hub/DSA/tree/master/0808-soup-servings) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/tanmay7-hub/DSA/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/tanmay7-hub/DSA/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/tanmay7-hub/DSA/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -575,6 +578,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/tanmay7-hub/DSA/tree/master/0645-set-mismatch) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -889,6 +893,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
