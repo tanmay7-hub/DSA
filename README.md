@@ -393,6 +393,7 @@
 | [1510-stone-game-iv](https://github.com/tanmay7-hub/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tanmay7-hub/DSA/tree/master/1563-stone-game-v) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
+| [1922-count-good-numbers](https://github.com/tanmay7-hub/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmay7-hub/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/tanmay7-hub/DSA/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
@@ -763,6 +764,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/tanmay7-hub/DSA/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
