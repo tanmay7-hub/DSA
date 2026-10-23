@@ -250,6 +250,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmay7-hub/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/tanmay7-hub/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/tanmay7-hub/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmay7-hub/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tanmay7-hub/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/tanmay7-hub/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -586,6 +587,7 @@
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/tanmay7-hub/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/tanmay7-hub/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
 |  |
 | ------- |
