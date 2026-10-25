@@ -59,6 +59,7 @@
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/tanmay7-hub/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/tanmay7-hub/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/tanmay7-hub/DSA/tree/master/1254-number-of-closed-islands) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
@@ -116,6 +117,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/tanmay7-hub/DSA/tree/master/0851-loud-and-rich) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/tanmay7-hub/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/tanmay7-hub/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/tanmay7-hub/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
