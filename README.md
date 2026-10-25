@@ -15,6 +15,7 @@
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [1192-critical-connections-in-a-network](https://github.com/tanmay7-hub/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1254-number-of-closed-islands](https://github.com/tanmay7-hub/DSA/tree/master/1254-number-of-closed-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1462-course-schedule-iv](https://github.com/tanmay7-hub/DSA/tree/master/1462-course-schedule-iv) |
@@ -56,6 +57,7 @@
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/tanmay7-hub/DSA/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1254-number-of-closed-islands](https://github.com/tanmay7-hub/DSA/tree/master/1254-number-of-closed-islands) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/tanmay7-hub/DSA/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -89,6 +91,7 @@
 | [0827-making-a-large-island](https://github.com/tanmay7-hub/DSA/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/tanmay7-hub/DSA/tree/master/0839-similar-string-groups) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/tanmay7-hub/DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1254-number-of-closed-islands](https://github.com/tanmay7-hub/DSA/tree/master/1254-number-of-closed-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/tanmay7-hub/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/tanmay7-hub/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/tanmay7-hub/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -191,6 +194,7 @@
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/tanmay7-hub/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1254-number-of-closed-islands](https://github.com/tanmay7-hub/DSA/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/tanmay7-hub/DSA/tree/master/1288-remove-covered-intervals) |
@@ -348,6 +352,7 @@
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/tanmay7-hub/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/tanmay7-hub/DSA/tree/master/0827-making-a-large-island) |
+| [1254-number-of-closed-islands](https://github.com/tanmay7-hub/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanmay7-hub/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/tanmay7-hub/DSA/tree/master/1329-sort-the-matrix-diagonally) |
