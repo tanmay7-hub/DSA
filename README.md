@@ -260,6 +260,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/tanmay7-hub/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tanmay7-hub/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -352,6 +353,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/tanmay7-hub/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -375,6 +377,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/tanmay7-hub/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -611,6 +614,7 @@
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/tanmay7-hub/DSA/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/tanmay7-hub/DSA/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/tanmay7-hub/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tanmay7-hub/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
