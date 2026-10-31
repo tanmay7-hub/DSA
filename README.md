@@ -278,6 +278,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanmay7-hub/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/tanmay7-hub/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tanmay7-hub/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/tanmay7-hub/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmay7-hub/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tanmay7-hub/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -365,6 +366,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/tanmay7-hub/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/tanmay7-hub/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -388,6 +390,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/tanmay7-hub/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3665-twisted-mirror-path-count](https://github.com/tanmay7-hub/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
