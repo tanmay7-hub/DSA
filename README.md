@@ -191,6 +191,7 @@
 | [0399-evaluate-division](https://github.com/tanmay7-hub/DSA/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/tanmay7-hub/DSA/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmay7-hub/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/tanmay7-hub/DSA/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
@@ -420,6 +421,7 @@
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/tanmay7-hub/DSA/tree/master/0343-integer-break) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmay7-hub/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay7-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/tanmay7-hub/DSA/tree/master/0650-2-keys-keyboard) |
