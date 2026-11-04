@@ -172,6 +172,7 @@
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/tanmay7-hub/DSA/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tanmay7-hub/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tanmay7-hub/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
@@ -367,6 +368,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/tanmay7-hub/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/tanmay7-hub/DSA/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3665-twisted-mirror-path-count](https://github.com/tanmay7-hub/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -555,6 +557,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/tanmay7-hub/DSA/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/tanmay7-hub/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
