@@ -229,6 +229,7 @@
 | [1406-stone-game-iii](https://github.com/tanmay7-hub/DSA/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1514-path-with-maximum-probability](https://github.com/tanmay7-hub/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmay7-hub/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/tanmay7-hub/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/tanmay7-hub/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/tanmay7-hub/DSA/tree/master/1575-count-all-possible-routes) |
@@ -343,6 +344,7 @@
 | [1416-restore-the-array](https://github.com/tanmay7-hub/DSA/tree/master/1416-restore-the-array) |
 | [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1510-stone-game-iv](https://github.com/tanmay7-hub/DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmay7-hub/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1531-string-compression-ii](https://github.com/tanmay7-hub/DSA/tree/master/1531-string-compression-ii) |
 | [1563-stone-game-v](https://github.com/tanmay7-hub/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/tanmay7-hub/DSA/tree/master/1575-count-all-possible-routes) |
@@ -434,6 +436,7 @@
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tanmay7-hub/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tanmay7-hub/DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmay7-hub/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/tanmay7-hub/DSA/tree/master/1563-stone-game-v) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [1922-count-good-numbers](https://github.com/tanmay7-hub/DSA/tree/master/1922-count-good-numbers) |
@@ -515,6 +518,7 @@
 | [0724-find-pivot-index](https://github.com/tanmay7-hub/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmay7-hub/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/tanmay7-hub/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/tanmay7-hub/DSA/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
