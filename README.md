@@ -186,6 +186,7 @@
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/tanmay7-hub/DSA/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/tanmay7-hub/DSA/tree/master/0260-single-number-iii) |
+| [0313-super-ugly-number](https://github.com/tanmay7-hub/DSA/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/tanmay7-hub/DSA/tree/master/0332-reconstruct-itinerary) |
@@ -305,6 +306,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmay7-hub/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/tanmay7-hub/DSA/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/tanmay7-hub/DSA/tree/master/0221-maximal-square) |
+| [0313-super-ugly-number](https://github.com/tanmay7-hub/DSA/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/tanmay7-hub/DSA/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/tanmay7-hub/DSA/tree/master/0403-frog-jump) |
@@ -424,6 +426,7 @@
 ## Math
 |  |
 | ------- |
+| [0313-super-ugly-number](https://github.com/tanmay7-hub/DSA/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/tanmay7-hub/DSA/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmay7-hub/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
