@@ -349,6 +349,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [1510-stone-game-iv](https://github.com/tanmay7-hub/DSA/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmay7-hub/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/tanmay7-hub/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-string-compression-ii](https://github.com/tanmay7-hub/DSA/tree/master/1531-string-compression-ii) |
 | [1563-stone-game-v](https://github.com/tanmay7-hub/DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/tanmay7-hub/DSA/tree/master/1575-count-all-possible-routes) |
@@ -495,6 +496,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanmay7-hub/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1416-restore-the-array](https://github.com/tanmay7-hub/DSA/tree/master/1416-restore-the-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/tanmay7-hub/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1531-string-compression-ii](https://github.com/tanmay7-hub/DSA/tree/master/1531-string-compression-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
@@ -525,6 +527,7 @@
 | [1140-stone-game-ii](https://github.com/tanmay7-hub/DSA/tree/master/1140-stone-game-ii) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanmay7-hub/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/tanmay7-hub/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/tanmay7-hub/DSA/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/tanmay7-hub/DSA/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -554,6 +557,7 @@
 | [1386-cinema-seat-allocation](https://github.com/tanmay7-hub/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/tanmay7-hub/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/tanmay7-hub/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanmay7-hub/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
@@ -638,6 +642,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tanmay7-hub/DSA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1386-cinema-seat-allocation](https://github.com/tanmay7-hub/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/tanmay7-hub/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/tanmay7-hub/DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2322-minimum-score-after-removals-on-a-tree) |
