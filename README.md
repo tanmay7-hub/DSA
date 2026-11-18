@@ -196,6 +196,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmay7-hub/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/tanmay7-hub/DSA/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/tanmay7-hub/DSA/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay7-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tanmay7-hub/DSA/tree/master/0645-set-mismatch) |
@@ -312,6 +313,7 @@
 | [0403-frog-jump](https://github.com/tanmay7-hub/DSA/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/tanmay7-hub/DSA/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/tanmay7-hub/DSA/tree/master/0514-freedom-trail) |
+| [0526-beautiful-arrangement](https://github.com/tanmay7-hub/DSA/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/tanmay7-hub/DSA/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/tanmay7-hub/DSA/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/tanmay7-hub/DSA/tree/master/0576-out-of-boundary-paths) |
@@ -629,6 +631,7 @@
 | [0260-single-number-iii](https://github.com/tanmay7-hub/DSA/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/tanmay7-hub/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tanmay7-hub/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0526-beautiful-arrangement](https://github.com/tanmay7-hub/DSA/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/tanmay7-hub/DSA/tree/master/0645-set-mismatch) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
@@ -704,6 +707,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanmay7-hub/DSA/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanmay7-hub/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0526-beautiful-arrangement](https://github.com/tanmay7-hub/DSA/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanmay7-hub/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1799-maximize-score-after-n-operations](https://github.com/tanmay7-hub/DSA/tree/master/1799-maximize-score-after-n-operations) |
@@ -957,6 +961,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/tanmay7-hub/DSA/tree/master/0526-beautiful-arrangement) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1125-smallest-sufficient-team](https://github.com/tanmay7-hub/DSA/tree/master/1125-smallest-sufficient-team) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/tanmay7-hub/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
