@@ -260,6 +260,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/tanmay7-hub/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay7-hub/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
@@ -420,6 +421,7 @@
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanmay7-hub/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmay7-hub/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay7-hub/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmay7-hub/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -620,6 +622,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/tanmay7-hub/DSA/tree/master/2029-stone-game-ix) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmay7-hub/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay7-hub/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay7-hub/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/tanmay7-hub/DSA/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanmay7-hub/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
