@@ -72,6 +72,7 @@
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/tanmay7-hub/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/tanmay7-hub/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/tanmay7-hub/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/tanmay7-hub/DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tanmay7-hub/DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -140,6 +141,7 @@
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanmay7-hub/DSA/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/tanmay7-hub/DSA/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/tanmay7-hub/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/tanmay7-hub/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/tanmay7-hub/DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2050-parallel-courses-iii](https://github.com/tanmay7-hub/DSA/tree/master/2050-parallel-courses-iii) |
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
@@ -246,6 +248,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmay7-hub/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/tanmay7-hub/DSA/tree/master/2029-stone-game-ix) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/tanmay7-hub/DSA/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2050-parallel-courses-iii](https://github.com/tanmay7-hub/DSA/tree/master/2050-parallel-courses-iii) |
 | [2097-valid-arrangement-of-pairs](https://github.com/tanmay7-hub/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/tanmay7-hub/DSA/tree/master/2101-detonate-the-maximum-bombs) |
