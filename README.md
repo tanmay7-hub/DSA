@@ -157,6 +157,7 @@
 | [2368-reachable-nodes-with-restrictions](https://github.com/tanmay7-hub/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanmay7-hub/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/tanmay7-hub/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -263,6 +264,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/tanmay7-hub/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/tanmay7-hub/DSA/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay7-hub/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -424,6 +426,7 @@
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanmay7-hub/DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmay7-hub/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay7-hub/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tanmay7-hub/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -625,6 +628,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmay7-hub/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/tanmay7-hub/DSA/tree/master/2029-stone-game-ix) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmay7-hub/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay7-hub/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay7-hub/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/tanmay7-hub/DSA/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
@@ -678,6 +682,7 @@
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/tanmay7-hub/DSA/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmay7-hub/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
