@@ -161,6 +161,7 @@
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/tanmay7-hub/DSA/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/tanmay7-hub/DSA/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanmay7-hub/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -268,6 +269,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tanmay7-hub/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/tanmay7-hub/DSA/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2707-extra-characters-in-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2707-extra-characters-in-a-string) |
 | [2742-painting-the-walls](https://github.com/tanmay7-hub/DSA/tree/master/2742-painting-the-walls) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/tanmay7-hub/DSA/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -688,6 +690,7 @@
 | [2497-maximum-star-sum-of-a-graph](https://github.com/tanmay7-hub/DSA/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/tanmay7-hub/DSA/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3123-find-edges-in-shortest-paths](https://github.com/tanmay7-hub/DSA/tree/master/3123-find-edges-in-shortest-paths) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -803,6 +806,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/tanmay7-hub/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/tanmay7-hub/DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/tanmay7-hub/DSA/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/tanmay7-hub/DSA/tree/master/3123-find-edges-in-shortest-paths) |
