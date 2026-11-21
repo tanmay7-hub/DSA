@@ -173,6 +173,7 @@
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/tanmay7-hub/DSA/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3310-remove-methods-from-project](https://github.com/tanmay7-hub/DSA/tree/master/3310-remove-methods-from-project) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -467,6 +468,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay7-hub/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmay7-hub/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -694,6 +696,7 @@
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3123-find-edges-in-shortest-paths](https://github.com/tanmay7-hub/DSA/tree/master/3123-find-edges-in-shortest-paths) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tanmay7-hub/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tanmay7-hub/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Eulerian Circuit
@@ -755,6 +758,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay7-hub/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmay7-hub/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Topological Sort
 |  |
@@ -811,6 +815,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tanmay7-hub/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/tanmay7-hub/DSA/tree/master/3123-find-edges-in-shortest-paths) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tanmay7-hub/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tanmay7-hub/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
