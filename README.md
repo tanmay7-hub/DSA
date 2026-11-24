@@ -291,6 +291,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/tanmay7-hub/DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/tanmay7-hub/DSA/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmay7-hub/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3493-properties-graph](https://github.com/tanmay7-hub/DSA/tree/master/3493-properties-graph) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tanmay7-hub/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -476,6 +477,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay7-hub/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmay7-hub/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay7-hub/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmay7-hub/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -735,6 +737,7 @@
 | [1291-sequential-digits](https://github.com/tanmay7-hub/DSA/tree/master/1291-sequential-digits) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/tanmay7-hub/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/tanmay7-hub/DSA/tree/master/2959-number-of-possible-sets-of-closing-branches) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmay7-hub/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tanmay7-hub/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tanmay7-hub/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -770,6 +773,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay7-hub/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmay7-hub/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanmay7-hub/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Topological Sort
 |  |
@@ -945,6 +949,7 @@
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/tanmay7-hub/DSA/tree/master/1425-constrained-subsequence-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmay7-hub/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmay7-hub/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmay7-hub/DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Linked List
 |  |
