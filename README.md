@@ -307,6 +307,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tanmay7-hub/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/tanmay7-hub/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tanmay7-hub/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/tanmay7-hub/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/tanmay7-hub/DSA/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/tanmay7-hub/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -600,6 +601,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/tanmay7-hub/DSA/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmay7-hub/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/tanmay7-hub/DSA/tree/master/3934-smallest-unique-subarray) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/tanmay7-hub/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/tanmay7-hub/DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/tanmay7-hub/DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -617,6 +619,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/tanmay7-hub/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3934-smallest-unique-subarray](https://github.com/tanmay7-hub/DSA/tree/master/3934-smallest-unique-subarray) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Minimum Spanning Tree
 |  |
@@ -1059,4 +1062,16 @@
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/tanmay7-hub/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/tanmay7-hub/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tanmay7-hub/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tanmay7-hub/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/tanmay7-hub/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
