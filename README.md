@@ -477,6 +477,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/tanmay7-hub/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay7-hub/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay7-hub/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/tanmay7-hub/DSA/tree/master/3360-stone-removal-game) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/tanmay7-hub/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tanmay7-hub/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -844,6 +845,7 @@
 | [1260-shift-2d-grid](https://github.com/tanmay7-hub/DSA/tree/master/1260-shift-2d-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tanmay7-hub/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanmay7-hub/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/tanmay7-hub/DSA/tree/master/3360-stone-removal-game) |
 ## Geometry
 |  |
 | ------- |
