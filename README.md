@@ -117,6 +117,7 @@
 | [3493-properties-graph](https://github.com/tanmay7-hub/DSA/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/tanmay7-hub/DSA/tree/master/3608-minimum-time-for-k-connected-components) |
+| [3613-minimize-maximum-component-cost](https://github.com/tanmay7-hub/DSA/tree/master/3613-minimize-maximum-component-cost) |
 ## Graph Theory
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/tanmay7-hub/DSA/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/tanmay7-hub/DSA/tree/master/3608-minimum-time-for-k-connected-components) |
+| [3613-minimize-maximum-component-cost](https://github.com/tanmay7-hub/DSA/tree/master/3613-minimize-maximum-component-cost) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tanmay7-hub/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tanmay7-hub/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
@@ -449,6 +451,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanmay7-hub/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/tanmay7-hub/DSA/tree/master/3608-minimum-time-for-k-connected-components) |
+| [3613-minimize-maximum-component-cost](https://github.com/tanmay7-hub/DSA/tree/master/3613-minimize-maximum-component-cost) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/tanmay7-hub/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmay7-hub/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -624,6 +627,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/tanmay7-hub/DSA/tree/master/3608-minimum-time-for-k-connected-components) |
+| [3613-minimize-maximum-component-cost](https://github.com/tanmay7-hub/DSA/tree/master/3613-minimize-maximum-component-cost) |
 | [3934-smallest-unique-subarray](https://github.com/tanmay7-hub/DSA/tree/master/3934-smallest-unique-subarray) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/tanmay7-hub/DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Minimum Spanning Tree
