@@ -45,6 +45,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/tanmay7-hub/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/tanmay7-hub/DSA/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/tanmay7-hub/DSA/tree/master/3528-unit-conversion-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [3310-remove-methods-from-project](https://github.com/tanmay7-hub/DSA/tree/master/3310-remove-methods-from-project) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/tanmay7-hub/DSA/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/tanmay7-hub/DSA/tree/master/3528-unit-conversion-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/tanmay7-hub/DSA/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/tanmay7-hub/DSA/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/tanmay7-hub/DSA/tree/master/3493-properties-graph) |
+| [3528-unit-conversion-i](https://github.com/tanmay7-hub/DSA/tree/master/3528-unit-conversion-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay7-hub/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay7-hub/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/tanmay7-hub/DSA/tree/master/3543-maximum-weighted-k-edge-path) |
